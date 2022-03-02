@@ -1,4 +1,4 @@
-## Technologies
+## Technologies & Platforms
 
 - ERC 721
 - Openzeppelin
